@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package rviz_default_plugins
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+11.2.6 (2023-05-26)
+-------------------
+* Fix points markers are not cleared (`#949 https://github.com/ros2/rviz/pull/949`_)
+* Fix segfault with image display (`Pull #726 <https://github.com/ros2/rviz/pull/726>`_)
+* Contributors: Shea Sanderson, Alejandro Hernández Cordero
 
 11.2.5 (2023-01-10)
 -------------------

@@ -330,6 +330,7 @@ void VisualizerApp::checkContinue()
       frame_->setWindowModified(false);
     }
     QApplication::closeAllWindows();
+    continue_timer_->stop();
   }
 }
 

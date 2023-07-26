@@ -2,6 +2,12 @@
 Changelog for package rviz_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+11.2.6 (2023-05-31)
+-------------------
+* Fix high speed ros2 message backlog (`#950 https://github.com/ros2/rviz/pull/950`_)
+* Add explict exit on !ros_client_abstraction_->ok()
+* Contributors: Shea Sanderson
+
 11.2.5 (2023-01-10)
 -------------------
 
